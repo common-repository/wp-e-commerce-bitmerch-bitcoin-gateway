@@ -1,0 +1,5 @@
+1) Copy this directory contents into your WordPress install path.
+2) Enable API access in your BitMerch account
+3) Enable bitcoin payment method in "payments" tab of wp-e-commerce plugin settings 
+4) Copy "Merchant ID" and "API Secure Key" from bitmerch to the wordpress payment method settings
+5) Done.
